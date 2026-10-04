@@ -1,0 +1,10 @@
+{
+  "name": "hello-plugin",
+  "description": "Starter plugin with a friendly greeting skill",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rajib Deb"
+  },
+  "repository": "https://github.com/rajib76/hello-plugin",
+  "license": "MIT"
+}
